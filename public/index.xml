@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JellyPhish</title>
+      <link>http://localhost:1313/posts/jellyphish/</link>
+      <pubDate>Mon, 01 Jan 2024 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/jellyphish/</guid>
+      <description>My modification of GoPhish Status Task Description ☑️ Activity detected statistic Statistic that is detecting if the link was opened in real browser - it could be useful when sandbox arrives. It could be added with the landing page section. ☑️ Displaying proper data in charts So gophish has a system that is showing statistic in wrong way. Now every event is collected and displayed. F.e submitted data does not mean that link was clicked.</description>
+    </item>
+  </channel>
+</rss>
