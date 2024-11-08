@@ -13,23 +13,25 @@ thumbImage = "/posts/jellyphish.jpg"
 When downloading the raw Events in csv format, operator can generate report using JellyReporter script.
 
 ### Statistics sheet
-<div align="center">
+<div align="center" style="width: 50%">
   <img src="statistics.png" alt="Statistics sheet">
 </div>
 
 ### Campaign results sheet
-<div align="center">
+<div align="center" style="width: 50%">
   <img src="campaign_results.png" alt="Campaign results sheet">
 </div>
 
 ### Provided data sheet
-<div align="center">
+<div align="center" style="width: 50%">
   <img src="provided_data.png" alt="Provided data sheet">
 </div>
 
 ### Raw Events sheet
-<div align="center">
+<div align="center" style="width: 50%">
   <img src="raw_events.png" alt="Raw Events sheet">
 </div>
+
 ### Checkout the project
+
 [GitHub](https://github.com/h4mr3r/jellyphish)
